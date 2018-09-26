@@ -50,5 +50,26 @@ p {
 }
 
 ul {
-  list-style-type: circle; 
+  list-style-type: circle;
+}
+
+h2 {
+  font-weight: normal;
+  text-align: center;
+  font-family: "Gills Sans", sans-serif;
+  color: black;
+}
+
+h3 {
+  font-weight: lighter;
+  text-align: center;
+  font-family: serif;
+  color: black;
+}
+
+h4 {
+  font-weight: bold;
+  text-align: center;
+  font-family: serif;
+  color: black;
 }
