@@ -10,11 +10,20 @@
   font-weight: bold;
   font-style: normal;
   text-align: center;
+  font-family: Georgia, serif;
   color: blue;
 }
 
 .cake {
   font-weight: normal;
   text-align: left;
+  font-family: Georgia, serif;
   color: red;
+}
+
+.light {
+  font-weight: normal;
+  text-align: left;
+  font-family: sans-serif;
+  color: grey;
 }
