@@ -10,5 +10,11 @@
   font-weight: bold;
   font-style: normal;
   text-align: center;
+  color: blue;
+}
+
+.cake {
+  font-weight: normal;
+  text-align: left;
   color: red;
 }
