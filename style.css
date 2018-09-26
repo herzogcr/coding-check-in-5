@@ -1,10 +1,14 @@
-/* your CSS goes into this file. For example:
-
-p {
-  color: #ff00ff;
-  text-decoration: underline;
+.book-title {
+  font-weight: bolder;
+  font-style: normal;
+  text-align: center;
+  font-family: cursive;
+  color: blue;
 }
 
-btw, this is a CSS comment. Feel free to delete it.
-
- */
+.recipes {
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  color: red;
+}
