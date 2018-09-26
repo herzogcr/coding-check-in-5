@@ -48,3 +48,7 @@ p {
   font-family: serif;
   color: black;
 }
+
+ul {
+  list-style-type: circle; 
+}
