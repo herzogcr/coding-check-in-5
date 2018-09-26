@@ -34,3 +34,10 @@
   font-family: sans-serif;
   color: grey;
 }
+
+p {
+  font-weight: normal;
+  text-align: left;
+  font-family: serif;
+  color: black;
+}
